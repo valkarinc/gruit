@@ -112,7 +112,7 @@ This project is proprietary. For more details, contact our team.
 ## 📬 Contact
 
 - **Website**: [Gruit Hosting](#)
-- **Support**: support@gruit.com
+- **Support**: team@gruit.net
 
 ---
 
